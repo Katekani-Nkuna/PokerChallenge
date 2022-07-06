@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sprinthive.pokerhands.HandTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-07-06T06:04:41" hostname="Zulzis-MacBook-Pro.local" time="0.055">
+  <properties/>
+  <testcase name="testCompareStraightToStraight()" classname="com.sprinthive.pokerhands.HandTest" time="0.034"/>
+  <testcase name="testHandRank4OfAKind()" classname="com.sprinthive.pokerhands.HandTest" time="0.0"/>
+  <testcase name="testInvalidHandRank()" classname="com.sprinthive.pokerhands.HandTest" time="0.0"/>
+  <testcase name="testHandRankStraightAceHigh()" classname="com.sprinthive.pokerhands.HandTest" time="0.001"/>
+  <testcase name="testHandRankRoyalFlush()" classname="com.sprinthive.pokerhands.HandTest" time="0.002"/>
+  <testcase name="testHandRank1Pairs()" classname="com.sprinthive.pokerhands.HandTest" time="0.001"/>
+  <testcase name="testHandRank2Pairs()" classname="com.sprinthive.pokerhands.HandTest" time="0.001"/>
+  <testcase name="testHandRankStraight()" classname="com.sprinthive.pokerhands.HandTest" time="0.0"/>
+  <testcase name="testHandRankStraightFlush()" classname="com.sprinthive.pokerhands.HandTest" time="0.001"/>
+  <testcase name="testHandRankFlush()" classname="com.sprinthive.pokerhands.HandTest" time="0.001"/>
+  <testcase name="testHandRankFullHouse()" classname="com.sprinthive.pokerhands.HandTest" time="0.0"/>
+  <testcase name="testHandRankHighCard()" classname="com.sprinthive.pokerhands.HandTest" time="0.001"/>
+  <testcase name="testCompareFlushToStraight()" classname="com.sprinthive.pokerhands.HandTest" time="0.001"/>
+  <testcase name="testHandRank3OfAKind()" classname="com.sprinthive.pokerhands.HandTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
